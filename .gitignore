@@ -1,0 +1,13 @@
+# Angular
+front/node_modules/
+front/dist/
+
+# .NET
+back/**/bin/
+back/**/obj/
+
+# SQLite
+back/**/*.db
+
+# OS
+.DS_Store

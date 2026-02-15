@@ -1,0 +1,28 @@
+@startuml Moody
+
+class User
+{
+    +Id : Integer
+    --
+    Name : String
+    Last_Name : String
+}
+
+class Today
+{
+    +Id : Integer
+    --
+    Id_User : Integer
+    Date : Date
+    Mood : Integer
+    Insomnie : Bool
+    Reveil : Bool
+    Manger : Bool
+    Sport : Bool
+    Interaction : Bool
+    Sortie : Bool
+}
+
+User --> Today
+
+@enduml

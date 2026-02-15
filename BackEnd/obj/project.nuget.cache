@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tRgkhw4as8rXYsP0mIlZvDyhSTv+eOPMwWv/Wf9/vN6iBiGvUeexjDu0cnrjyYnK65YNbg4+oswerAeTk5fRVg==",
+  "dgSpecHash": "iCGQGwL1wwI=",
   "success": true,
   "projectFilePath": "/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/BackEnd.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,10 @@
     "/Users/jano/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/jano/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/jano/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/jano/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/jano/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/jano/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/jano/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/jano/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

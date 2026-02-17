@@ -11,3 +11,14 @@ back/**/*.db
 
 # OS
 .DS_Store
+
+# Fichiers de build
+bin/
+obj/
+
+# Base de données locale
+*.db
+
+# Fichiers secrets
+*.user
+*.vs

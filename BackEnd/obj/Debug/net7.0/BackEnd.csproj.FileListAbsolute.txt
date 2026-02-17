@@ -1,0 +1,9 @@
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.csproj.AssemblyReference.cache
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/rpswa.dswa.cache.json
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.AssemblyInfoInputs.cache
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.AssemblyInfo.cs
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.csproj.CoreCompileInputs.cache
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.MvcApplicationPartsAssemblyInfo.cs
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.MvcApplicationPartsAssemblyInfo.cache
+/Users/jano/Desktop/ENSC/2A/P2i/Moody/BackEnd/obj/Debug/net7.0/BackEnd.sourcelink.json
